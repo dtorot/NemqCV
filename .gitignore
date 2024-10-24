@@ -1,3 +1,4 @@
+*.log
 latex/*.log
 latex/*.gz
 latex/*.ps
