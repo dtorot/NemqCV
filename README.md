@@ -4,3 +4,4 @@ Working space to host the **David Toro Triana** professional profile, maybe a li
 If you have a real interest in the talent of the FLOSS industry, you know that **ssh**, **git**, **vim**, **Markdown**, **Debian** and **LaTeX** (...what a renaissane editing system!), tools that bring to you the downloable *C.V.* in format pdf of this repository, are an indicator of a very seasoned Open Source newbie (I never like the LinkedIn ego show... although in good hands, is a wonderful business network!).
 
 ## [Get current C.V. document ENG](https://raw.githubusercontent.com/dtorot/NemqCV/master/latex/profiles/engineer/DavidToroT-cv-ENG.pdf)
+## [Versión Actual C.V. documento ES](https://raw.githubusercontent.com/dtorot/NemqCV/master/latex/profiles/engineer/DavidToroT-cv-ES.pdf)
