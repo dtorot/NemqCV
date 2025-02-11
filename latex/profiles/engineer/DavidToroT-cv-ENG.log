@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.5.21)  24 DEC 2024 21:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.5.21)  11 FEB 2025 15:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -417,7 +417,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 44.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 91.
+nput line 87.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 [1
@@ -426,19 +426,19 @@ nput line 91.
 st/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texlive/texmf-dist/fon
 ts/enc/dvips/fontawesome5/fa5free1.enc}] [2] [3] [4]
 Package pdftex.def Info: Option `bb' equivalent to `viewport' with the pdftex d
-river on input line 237.
-<../../docs/qr.png, id=77, 1151.30125pt x 1151.30125pt>
+river on input line 240.
+<../../docs/qr.png, id=79, 1151.30125pt x 1151.30125pt>
 File: ../../docs/qr.png Graphic file (type png)
 <use ../../docs/qr.png>
-Package pdftex.def Info: ../../docs/qr.png  used on input line 237.
+Package pdftex.def Info: ../../docs/qr.png  used on input line 240.
 (pdftex.def)             Requested size: 199.16928pt x 199.16232pt.
  [5 <../../docs/qr.png>] ) 
 Here is how much of TeX's memory you used:
- 15560 strings out of 477985
- 268670 string characters out of 5839370
- 1862388 words of memory out of 6000000
+ 15564 strings out of 477985
+ 268700 string characters out of 5839370
+ 1864388 words of memory out of 6000000
  35487 multiletter control sequences out of 15000+600000
- 519386 words of font info for 98 fonts, out of 8000000 for 9000
+ 519440 words of font info for 100 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,9n,76p,1014b,603s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fon
@@ -453,10 +453,10 @@ hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on DavidToroT-cv-ENG.pdf (5 pages, 237849 bytes).
+Output written on DavidToroT-cv-ENG.pdf (5 pages, 237559 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
+ 141 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
  6 named destinations out of 1000 (max. 500000)
  25094 words of extra memory for PDF output out of 29859 (max. 10000000)
 
